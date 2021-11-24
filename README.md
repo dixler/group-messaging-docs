@@ -34,6 +34,7 @@ See architecture diagram or ask me. It's a thought provoking pattern around curr
 ## Frontend Details
 - Typescript
 - React.js
+- React Native
 - Redux
 
 ## Previous Iterations
